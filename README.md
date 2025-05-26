@@ -63,7 +63,5 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 ```
 
----
-
 Let me know if you'd like help creating a `style.css` file or want to deploy it via GitHub Pages for live preview.
 ```
