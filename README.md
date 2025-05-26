@@ -3,11 +3,7 @@ Mini project
 ```markdown
 # Sidebar Menu with HTML and CSS
 
-This is a simple **Sidebar Menu Project** built using **HTML and CSS**, featuring a sliding sidebar with social media icons and navigation links. It is a responsive and visually appealing menu, inspired by modern UI designs.
-
-## 🖥️ Demo
-
-> *(Optional: Add a GIF or screenshot showing the sidebar in action)*
+This is a simple Sidebar Menu Project built using HTML and CSS, featuring a sliding sidebar with social media icons and navigation links. It is a responsive and visually appealing menu, inspired by modern UI designs.
 
 ## 🚀 Features
 
@@ -35,7 +31,7 @@ This is a simple **Sidebar Menu Project** built using **HTML and CSS**, featurin
 
 ````
 
-> *Make sure you add the `style.css` file and link it in your HTML head for styling.*
+> Make sure you add the `style.css` file and link it in your HTML head for styling.
 
 ## 🔧 How to Use
 
@@ -51,7 +47,7 @@ git clone https://github.com/samiaabid06/sidebar-menu.git
 
 ## 📸 Preview
 
-> *(Optional: Add screenshots or GIFs to help others visualize your project)*
+> (Optional: Add screenshots or GIFs to help others visualize your project)
 
 ## ✍️ Author
 
